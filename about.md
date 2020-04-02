@@ -2,12 +2,10 @@
 layout: page
 title: Sobre mí
 ---
-## About
-Emerald is a minimal theme created for Jekyll. The main purpose of Emerald is to provide a clear theme for those who want a blog ready to use, focused on the content and mobile-first.
+## Sobre mí
+Soy una estudiante de cuarto curso de Lenguas Aplicadas en la Universidad Pompeu Fabra. Vivo en Barcelona, pero vengo de pueblo. Me gusta leer, escuchar música y beber vino (si es todo a la vez, mejor).
 
-For further details on Emerald, please visit the [repository on Github](https://github.com/KingFelix/emerald/).
-
-![Emerald](img/Emerald01.png "Emerald")
+![Emerald](img/LOGO.png "Emerald")
 
 ### Setup
 Emerald may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/KingFelix/emerald/archive/master.zip).
