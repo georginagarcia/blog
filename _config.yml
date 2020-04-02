@@ -1,14 +1,14 @@
 # Site settings
 title: Georgina Garcia 
 description: Un blog de aprendizaje
-url: "http://www.jacoporabolini.com/emerald"
+url: "https://georginagarcia.github.io/blog/"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
+  name: "Georginia Garcia"
+  email: "georgina.garcia01@estudiant.upf.edu"
   url: "http://www.jacoporabolini.com"
 
 # Build settings
-baseurl: /emerald # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
