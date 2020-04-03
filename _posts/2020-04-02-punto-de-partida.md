@@ -7,4 +7,4 @@ No soy novelista, ni directora de cine. No he hecho un máster, ni me he present
 
 Soy muy consciente de la importancia que han tenido los profesores en mi vida. De cuando me colaba en las clases de sociología de la UB sólo para ver cómo un profesor cincuentón, que era el amor platónico de muchas, daba su clase entre insultos  y explicaba anécdotas de conversaciones en las puertas de los bares. O cuando al final del instituto, mi tutora me propuso leer un libro de literatura queer y me vi leyendo sobre cómo los gays tienen encuentros casuales y sexo en saunas, y también como se enamoran. Que gracias a eso me vi intentando entender a Foucault con 17 años. También me he visto totalmente dormida encima de la mesa en una clase sobre los elementos de la tabla periódica. Por todo esto creo que sería una buena profesora, porque todo lo que hecho en mi vida es ser alumna.  
 
-<textarea name="comentarios" rows="10" cols="40">Escribe aquí tus comentarios</textarea> 
+
