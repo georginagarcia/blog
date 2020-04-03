@@ -132,12 +132,12 @@ html, body {
   	display: inline-block;
   }
   img {
-  	max-height: 72px;
+  	max-height: 120px;
   	margin: 0 auto;
   	display: block;
   }
   h1 {
-  	font-family: 'Signika', sans-serif; //Emerald logo font
+  	font-family: 'Signika', sans-serif; //Diario de aprendizaje
     font-weight: 600;
   }
   &:after {
@@ -177,7 +177,7 @@ html, body {
 .by-line {
   display: block;
   color: lighten($text-color, 25%);
-  line-height: 1.5em; /* 24px/16px */
+  line-height: 1.25em; /* 24px/16px */
   margin-bottom: 1.5em; /* 24px/16px */
   font-weight: 200;
   @media (min-width: 940px) {
