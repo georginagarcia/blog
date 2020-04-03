@@ -6,6 +6,6 @@ title: Sobre mí
 
 Soy una estudiante de cuarto curso de Lenguas Aplicadas de la Universidad Pompeu Fabra. Vivo en Barcelona, pero vengo de pueblo. Me gusta leer, escuchar música y beber vino (si es todo a la vez, mejor).
 
-![Gina](img/Gina.jpg "Gina")
+![Gina](img/Gina02.jpg "Gina")
 
 
