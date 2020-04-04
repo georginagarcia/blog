@@ -8,9 +8,9 @@ title: Punto de partida
 
 
 <P><DIV ALIGN="justify">De mi glorioso paso por la carrera, no puedo olvidar mencionar en este post introductorio a los análisis políticos de George Lakoff, fundador de la lingüística generativa, y conocido por su teoría de la metáfora conceptual. De él he aprendido que 
-
->“Las palabras no son inocentes. Puede que aún menos de lo que pensábamos”. 
-
+<blockquote>
+“Las palabras no son inocentes. Puede que aún menos de lo que pensábamos”. 
+</blockquote>
 A Zygmunt Bauman por sus explicaciones sobre la posmodernidad, las cuales acostumbro a tener muy presentes. A George Orwell, en este mismo sentido, por ser un profeta que admiro profundamente. Y claro, Teuf Van Dijk que me ha introducido en el análisis crítico del discurso. Todo eso a partir de bibliografías recomendadas, claro. “Per acabar-ho d’adobar”, siempre me acompañan los pensamientos de Virgine Despentes, Paul B. Preciado, Cristina Fallarás, y otras muchas feministas que me dicen que la lengua es otro espacio más desde dónde ejercer el privilegio, que tan necesario es apropiarnos de los discursos de poder como de otros muchos espacios.  </DIV>
 
 <P><DIV ALIGN="justify">Soy muy consciente de la importancia que han tenido los profesores en mi vida. De cuando me colaba en las clases de sociología de la UB sólo para ver cómo un profesor cincuentón, que era el amor platónico de muchas, daba su clase entre insultos  y explicaba anécdotas de puerta de bar. O cuando al final del instituto, mi tutora me propuso leer un libro de literatura queer y me vi leyendo sobre cómo los gais tienen encuentros casuales en saunas, y también como se enamoran. Que gracias a eso me vi intentando entender a Foucault  y su teoría sobre las identidades con 17 años. Ha habido un par o tres de profesoras que me han calado hondo, no lo negaré. </DIV>
