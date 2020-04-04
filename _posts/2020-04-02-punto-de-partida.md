@@ -9,7 +9,7 @@ title: Punto de partida
 
 <P><DIV ALIGN="justify">De mi glorioso paso por la carrera, no puedo olvidar mencionar en este post introductorio a los análisis políticos de George Lakoff, fundador de la <b>lingüística generativa</b>, y conocido por su teoría de la <b>metáfora conceptual</b>. De él he aprendido que: 
 <blockquote>
-“Las palabras no son inocentes. Puede que aún menos de lo que pensábamos”. (Lakoff, G. 2017)
+“Las palabras no son inocentes. Puede que aún menos de lo que pensábamos”. (Lakoff, 2017)
 </blockquote>
 A Zygmunt Bauman por sus explicaciones sobre la posmodernidad, las cuales acostumbro a tener muy presentes. A George Orwell, en este mismo sentido, por ser un profeta que admiro profundamente. Y Teuf Van Dijk, que me ha introducido en el <b>análisis crítico del discurso</b>. Todo eso a partir de bibliografías recomendadas, claro. <i>Per acabar-ho d’adobar</i>, siempre me acompañan los pensamientos de Virgine Despentes, Paul B. Preciado, Cristina Fallarás, y otras muchas feministas que me dicen que <b>la lengua es otro espacio más desde dónde ejercer el privilegio, que tan necesario es apropiarnos de los discursos de poder como de otros muchos espacios.</b>  </DIV>
 
