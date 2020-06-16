@@ -14,8 +14,3 @@ A continuación se presenta la autevaluación de la actividad de Microteaching:
 ---
 | Criterio | Coevaluación | Autevaluación |
 | ---- | --- | --- |
-| Gestión del aula | La clase ha durado una hora como se pedía. Aunque ha habido algunas dificultas técnicas se han solucionado. No se da información del tiempo para realizar las actividades. Ambas coevaluadoras coinciden en que la gestión del aula no es adecuada. |
-| Instrucciones | Contenido de la celda  |
-| Explicaciones | Contenido de la celda  |
-| Toma de decisiones | Contenido de la celda  |
-| Interacción del estudiante | Contenido de la celda  |
