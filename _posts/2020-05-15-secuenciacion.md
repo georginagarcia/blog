@@ -1,5 +1,5 @@
 ---
-title: Planificación de la Unidad didáctica y  práctica de Microteaching
+title: Planificación de la Unidad didáctica y práctica de Microteaching
 ---
 <P><DIV ALIGN="justify">La planificación que tiene que ver con el Spanglish intentaba responder al análisis de la interlengua de un hablante nativo de L1italiano. Como su nivel era alto (C1-C2), y el análisis no nos daba información relevante sobre errores significativos, nos enfocamos en conocimientos actitudinales y sociolingüísticos: la relación entra prestigio social y lengua; y la importancia relativa de la corrección lingüística (oral). Para ello hemos propuesto la interlengua, valga la redundancia, como foco de estudio y tema que vertebra el trabajo. Primero, para mostrar una realidad diferente al alumno dónde la lengua híbrida entre el inglés y el español funcionan en un contexto bilingüe, sin llevar a mayores problemas que los del prestigio sociocultural de sus hablantes. Segundo, con el objetivo de estructurar un discurso de registro formal; ya que se observa en el análisis que los prejuicios e inseguridades del alumno provocan que no se arriesgue en construcciones complejas de argumentación. </div>
 
