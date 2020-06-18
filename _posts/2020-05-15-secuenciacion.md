@@ -10,9 +10,10 @@ title: Planificación de la Unidad didáctica y práctica de Microteaching
 ---
 <P><DIV ALIGN="justify">Desde una primer ejercicio de activación con palabras que pertenecen al libro de Ilan Stavans “Spanglish”, pasamos a la visualización de un vídeo explicativo de la prensa sobre la interlengua en Miami. A partir de ese momento se hace un pequeño ejercicio anecdótico para contextualizar algunas de las palabras en ejemplos reales. Más adelante, e incidiendo en el aspecto formal que presenta la actividad, se hace una destreza de comprensión e identificación de argumentos a favor y en contra, viendo los marcadores discursivos en su contexto de uso. La reflexión de la forma se hace paralelamente, de manera oral. Se provee al alumno de un compendio de los marcadores al que poder acudir cuando se necesite, para disponer de los conceptos sistematizados. Por último se quiere hacer una Tarea final del portuñol, donde poder aplicar los argumentos tratados sobre el spanglish y mediante los marcadores discursivos que hemos usado.</div>
 
-<P><DIV ALIGN="justify">A continuación se presenta la autevaluación de la actividad de Microteaching:</div>
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-<P><DIV ALIGN="justify">
+<P><DIV ALIGN="justify">En general, la evaluación de la actividad de Microteaching es positiva. La gestión del aula, uno de los temas más criticados por mis compañeras, yo la valoro positivamente. Que la profesora (yo) se sitúe avanzada del alumno se hace expresamente para simular una clase. En una clase presencial la profesora da la espalda a la clase en ocasiones dónde tiene que apuntar en la pizarra, y esto no supone un impedimento mayor. Por otra parte, si bien es cierto que la voz del vídeo no se puede reproducir por estar grabando la voz, hay una preparación previa de materiales y se le ha pasado el power point al alumno. Por lo que se demuestra que se ha preparado la clase.  </p>
 
+<P><DIV ALIGN="justify">Creo que las instrucciones son claras y se adecúan al nivel, se explican las palabras claves, aunque sí que es verdad que se introducen algun términos lingüísticos, no se cree que el estudiante no haya podido comprender el mensaje.</p>
+
+<p><DIV ALIGN="justify">El principal problema que ha surgido ha sido en cuanto a la resolución de la tarea final. El estudiante no se veía capaz de elaborar el discurso de manera espontánea y se ha le ha guiado en la elaboración de las pautas. Probablemente se hubiera optado a que la tarea final fuese preparada en casa para su exposición en una clase siguiente, en un caso real. </p>
+
+<p><DIV ALIGN="justify">En cuanto a la interacción con el estudiante, el participante se ha mostrado colaborativo y se ha fomentado un diálogo contínuo de acuerdo con valorar la lengua en interacción. Aunque se diga que el tono de la clase ha sido informal, creo que ese es un aspecto crucial para crear un ambiente distendido. Probablemente actúa en contra de la supuesta autoridad que debería demostrar la profesora; un criterio que se tiene en cuenta desde un punto de vista tradicional de la educación.</p>
